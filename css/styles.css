@@ -59,6 +59,8 @@ a {
     color: #4d5ae5;
 }
 
+    
+
 .header-logo {
     padding: 24px 0;
     margin-right: 76px;
@@ -475,6 +477,7 @@ a {
 
 .footer-social-list {
     gap: 16px;
+    justify-content: flex-start;
 }
 
 .footer-social-link {
